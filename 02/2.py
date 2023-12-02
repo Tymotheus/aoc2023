@@ -1,5 +1,3 @@
-import sys
-from string import ascii_letters
 
 lines = open("input.txt").read().splitlines()
 board = {"red": 12, "green": 13, "blue": 14}
